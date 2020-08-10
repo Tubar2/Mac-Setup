@@ -22,6 +22,8 @@ Finder (Finder → ⌘+,):
  Trackpad: 
   - Point&Click → Tap to click
 
+## Dev setup
+
 Install Homebrew:
   - /bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
   
