@@ -45,7 +45,6 @@ mkdir $HOME/dev
 
 ## Home-Brew
 
-[Home-Brew Basic Command Guide](https://www.notion.so/Home-Brew-Basic-Command-Guide-5cb419e99a924e8e92087ba99dc3f6a2)
 
 - Why use?
 
@@ -177,7 +176,6 @@ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/the
     - [https://denysdovhan.com/spaceship-prompt/docs/Options.html#exit-code-exit_code](https://denysdovhan.com/spaceship-prompt/docs/Options.html#exit-code-exit_code) or
     - copy settings from my SPACESHIP_PROMPT_ORDER.txt
 
-        [Spaceship_Prompt_Order](https://www.notion.so/Spaceship_Prompt_Order-6b6de9ea82d545e6a3a91a74e9dc373c)
 
 ### Zsh Plugins
 
@@ -198,7 +196,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/i
 
 ## Go-lang
 
-[Golang](https://www.notion.so/Golang-80d26929a7fd4428b17a6926061fa7f6)
 
 Installing go with homebrew doesn't always gets the earliest version
 
